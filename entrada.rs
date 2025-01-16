@@ -1,3 +1,8 @@
+// cargo new entrada
+// cd entrada
+// cargo run
+
+
 use std::io;
 
 
