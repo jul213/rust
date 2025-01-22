@@ -3,7 +3,7 @@
 // cargo run
 
 
-use std::io;  //utilizar io
+use std::io;  //utilizar io para leer entrada de usaario
 
 
 fn main() {
