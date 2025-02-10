@@ -18,5 +18,7 @@ for e in mut &s{
 
 
 fn largest(list: &i32) -> &i32 {
-    let mut
+    let mut largest = &list[0];
+
+    
 }
