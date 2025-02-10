@@ -10,3 +10,7 @@ for i in &v{
 
 
 let mut s = vec![10,20,40,5,90,1];
+
+for e in mut &s{
+    
+}
