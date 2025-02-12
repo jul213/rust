@@ -41,3 +41,6 @@ fn largest_char(list: &[char]) -> &char{
     }
     largest
 } 
+
+
+fn largestAll<T>(list: )
