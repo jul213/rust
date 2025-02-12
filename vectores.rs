@@ -25,6 +25,7 @@ fn largest(list: &i32) -> &i32 {
             largest = item;
         }
     }
+    largest
 }
 
 
