@@ -43,4 +43,13 @@ fn largest_char(list: &[char]) -> &char{
 } 
 
 
-fn largestAll<T>(list: )
+fn largestAll<T>(list: &[T])-> &T{
+    let mut largest = &T[0];
+
+    for item in list{
+        if item > largest{
+            largest = item;
+        }
+    }
+    largest
+}
