@@ -4,5 +4,8 @@ pub trait lenguaje {
 
 pub struct libro {
     pub headline: String,
-    
+    pub author: String,
+    pub date: String,
+    pub copy: int,
+    pub id: String,
 }
