@@ -9,3 +9,10 @@ pub struct libro {
     pub copy: int,
     pub id: String,
 }
+
+
+impl lenjuage for libro {
+    fn sum(&self) -> String {
+        format!("el nombre es {}, hecho por {} en la fecha {}")
+    }
+}
