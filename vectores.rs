@@ -63,3 +63,4 @@ u.push(25);
 u.push(45);
 
 let two: &i32 = &u[1];
+println!("el elemento dos del vector u es: {two}");
