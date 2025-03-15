@@ -61,3 +61,5 @@ u.push(10);
 u.push(15);
 u.push(25);
 u.push(45);
+
+let two: &i32 = &u[1];
