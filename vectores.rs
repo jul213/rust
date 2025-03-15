@@ -56,3 +56,8 @@ fn largestAll<T>(list: &[T])-> &T{
 
 let mut u = Vec::new();
 
+u.push(5);
+u.push(10);
+u.push(15);
+u.push(25);
+u.push(45);
